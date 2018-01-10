@@ -1,5 +1,11 @@
 Hello
 This is a test file.
+<<<<<<< HEAD
 It is created locally.
 All rights reserved.
 Melissa
+=======
+This is created online.
+All rights reserved.
+Melissa.
+>>>>>>> 79468f68114709956738ac6d52004d9dbd37bf53
